@@ -1,0 +1,6 @@
+public class Atv1{
+	pblic static void main(String[] args) {
+		System.out.println("\"ola2\"");
+		System.out.print("ola");
+	}
+}
